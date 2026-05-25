@@ -157,7 +157,7 @@
       "id": "tidal-web",
       "name": "tidal-web",
       "display_name": "Tidal",
-      "version": "1.0.4",
+      "version": "1.0.5",
       "description": "TIDAL metadata and search provider for SpotiFLAC Mobile using TIDAL public web endpoints.",
       "download_url": "https://raw.githubusercontent.com/zarzet/SpotiFLAC-Extension/main/extensions/tidal-web.spotiflac-ext",
       "category": "download",
@@ -169,7 +169,7 @@
         "search"
       ],
       "downloads": 0,
-      "updated_at": "2026-05-15T00:00:00Z",
+      "updated_at": "2026-05-25T00:00:00Z",
       "min_app_version": "4.5.0"
     }
   ]
