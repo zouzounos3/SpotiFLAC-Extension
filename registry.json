@@ -62,8 +62,8 @@
       "id": "soundcloud",
       "name": "soundcloud",
       "display_name": "SoundCloud",
-      "version": "1.0.4",
-      "description": "SoundCloud metadata and download provider. Search tracks, albums, playlists, artists. Downloads via direct SoundCloud streams with Cobalt API fallback.",
+      "version": "1.0.5",
+      "description": "SoundCloud metadata and download provider. Search tracks, albums, playlists, artists. Downloads via direct SoundCloud streams.",
       "download_url": "https://raw.githubusercontent.com/zarzet/SpotiFLAC-Extension/main/extensions/soundcloud.spotiflac-ext",
       "category": "download",
       "tags": [
@@ -73,7 +73,7 @@
         "search"
       ],
       "downloads": 0,
-      "updated_at": "2026-05-31T00:00:00Z",
+      "updated_at": "2026-06-02T00:00:00Z",
       "min_app_version": "4.3.0"
     },
     {
