@@ -19,3 +19,9 @@
 ## Review Process
 
 All submissions are reviewed before being added to the store.
+
+## License
+
+Copyright 2026 zarzet
+
+This project is licensed under the Apache License, Version 2.0 - see the [LICENSE](LICENSE) file for details.
