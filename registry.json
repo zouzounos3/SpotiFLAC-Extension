@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-09-25T00:00:00Z",
+  "updated_at": "2026-10-01T00:00:00Z",
   "extensions": [
     {
       "id": "spotify-web",
@@ -64,10 +64,10 @@
       "id": "soundcloud",
       "name": "soundcloud",
       "display_name": "SoundCloud",
-      "version": "1.0.8",
+      "version": "1.0.10",
       "description": "SoundCloud metadata and download provider. Search tracks, albums, playlists, artists. Downloads via direct SoundCloud streams.",
       "download_url": "https://raw.githubusercontent.com/zarzet/SpotiFLAC-Extension/main/extensions/soundcloud.sflx",
-      "sha256": "24bbac618194574b9b867cb52dabd34b8e8f102cec0edcbe0b9b9f85b93230ce",
+      "sha256": "88a015a088727e7d8ccf44d347e555e6ff5e845667b2e35c57c109555fbc6652",
       "category": "download",
       "tags": [
         "soundcloud",
@@ -76,7 +76,7 @@
         "search"
       ],
       "downloads": 0,
-      "updated_at": "2026-08-29T00:00:00Z",
+      "updated_at": "2026-10-01T00:00:00Z",
       "min_app_version": "4.9.1"
     },
     {
